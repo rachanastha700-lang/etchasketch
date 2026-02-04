@@ -1,0 +1,20 @@
+body,html{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container{
+    margin-top: 60px;
+    height: 560px;
+    width:560px;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+ box-sizing: border-box; 
+}
+
+.divdes{
+  box-sizing: border-box; 
+    border: 0.5px solid rgb(201, 201, 201);
+}
