@@ -33,7 +33,7 @@ clear.addEventListener("click",()=>{
 button.addEventListener("click",()=>{
 
 let n = document.createElement("input");
-n = Number(prompt("set number of squares per side: "));
+n = Number(prompt("set number of squares per side recommended-<100: "));
 
 container.innerHTML = "";
 //looping statement for divs
